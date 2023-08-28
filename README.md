@@ -1,6 +1,6 @@
 # Data Science, Visualization and Dashboard - Netflix dataset
 
-The netflix dataset is available on [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows "Kaggle-VREEDdataset").
+The netflix dataset is available on [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows "Kaggle-dataset").
 
 ## About files
 
